@@ -333,6 +333,20 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/
   end
 })
 
+Tab:AddButton({
+  Name = "穿墙(可关闭)",
+  Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TtmScripter/OtherScript/main/Noclip"))()
+  end
+})
+
+Tab:AddButton({
+  Name = "阿尔宙斯注入器3.0",
+  Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20X%20V3"))()
+  end
+})
+
 local Tab = Window:MakeTab({
 	Name = "死铁轨",
 	Icon = "rbxassetid://7734068321",
@@ -388,68 +402,4 @@ Tab:AddButton({
 Tab:AddButton({
   Name = "死铁轨RINGTA脚本",
   Callback = function()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/DEADRAILSOP.github.io/refs/heads/main/ringta.lua"))()
-    end
-})
-Tab:AddButton({
-  Name = "死铁轨自动刷卷",
-  Callback = function()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/thiennrb7/Script/refs/heads/main/autobond"))()
-    end
-})
-
-Tab:AddButton({
-  Name = "死铁轨手动通关脚本",
-  Callback = function()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoGunVolley/Dedrail/refs/heads/main/Protected_8860927939362090.txt"))()
-    end
-})
-  
-local Tab = Window:MakeTab({
-	Name = "俄亥俄州",
-	Icon = "rbxassetid://7734068321",
-	PremiumOnly = false
-})
-
-Tab:AddButton({
-  Name = "XA俄亥俄州",
-  Callback = function()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Xingtaiduan/Script/refs/heads/main/Games/Ohio"))()
-    end
-})
-
-Tab:AddButton({
-  Name = "宿摊自动刷印钞机",
-  Callback = function()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Sukuna2134/sukunascriptfree/refs/heads/main/%E5%AE%BF%E5%82%A9%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E8%87%AA%E5%8A%A8%E6%8D%A2%E6%9C%8D%E6%8C%82%E6%9C%BA.lua"))()
-    end
-})
-
-local Tab = Window:MakeTab({
-	Name = "被遗弃",
-	Icon = "rbxassetid://7734068321",
-	PremiumOnly = false
-})
-
-Tab:AddButton({
-  Name = "情云",
-  Callback = function()
-  loadstring(utf8.char((function() return table.unpack({108,111,97,100,115,116,114,105,110,103,40,103,97,109,101,58,72,116,116,112,71,101,116,40,34,104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,67,104,105,110,97,81,89,47,45,47,109,97,105,110,47,37,69,54,37,56,51,37,56,53,37,69,52,37,66,65,37,57,49,34,41,41,40,41})end)()))()
-    end
-})
-
-Tab:AddButton({
-  Name = "某某脚本免费版",
-  Callback = function()
-   loadstring(game:HttpGet"https://raw.githubusercontent.com/OWOWOWWOW/HTT/main/HT.lua")()
-     end
-})
-
-Tab:AddButton({
-  Name = "被遗弃油管搬运脚本",
-  Callback = function()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code"))()
-      end
-})
-
-
+  loadstring(game:HttpGet("https://raw
