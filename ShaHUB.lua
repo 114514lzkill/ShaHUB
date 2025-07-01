@@ -404,4 +404,143 @@ Tab:AddButton({
 Tab:AddButton({
   Name = "死铁轨叶子脚本",
   Callback = function()
-  loadstring(game:HttpGet("https://getnative.cc/script/loa
+  loadstring(game:HttpGet("https://getnative.cc/script/loader"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "死铁轨TX退休脚本",
+  Callback = function()
+  TX = "退休脚本"QUN = "160369111"loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\102\121\46\97\112\112\47\54\52\68\99\116\76\77\53\47\114\97\119"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "死铁轨RINGTA脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/DEADRAILSOP.github.io/refs/heads/main/ringta.lua"))()
+    end
+})
+Tab:AddButton({
+  Name = "死铁轨自动刷卷",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/thiennrb7/Script/refs/heads/main/autobond"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "死铁轨手动通关脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoGunVolley/Dedrail/refs/heads/main/Protected_8860927939362090.txt"))()
+    end
+})
+  
+local Tab = Window:MakeTab({
+	Name = "俄亥俄州",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "XA俄亥俄州",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Xingtaiduan/Script/refs/heads/main/Games/Ohio"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "宿摊自动刷钱",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Sukuna2134/sukunascriptfree/refs/heads/main/%E5%AE%BF%E5%82%A9%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E8%87%AA%E5%8A%A8%E6%8D%A2%E6%9C%8D%E6%8C%82%E6%9C%BA.lua"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "刷印钞机",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/pijiaobenMSJMleng/ehhdvdhd/refs/heads/main/good.lua"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "。SonwHUB",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/canxiaoxue666/SnowHubDemo/refs/heads/main/SnowHub"))()
+    end
+})
+
+   
+local Tab = Window:MakeTab({
+	Name = "被遗弃",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "情云",
+  Callback = function()
+  loadstring(utf8.char((function() return table.unpack({108,111,97,100,115,116,114,105,110,103,40,103,97,109,101,58,72,116,116,112,71,101,116,40,34,104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,67,104,105,110,97,81,89,47,45,47,109,97,105,110,47,37,69,54,37,56,51,37,56,53,37,69,52,37,66,65,37,57,49,34,41,41,40,41})end)()))()
+    end
+})
+
+Tab:AddButton({
+  Name = "某某脚本免费版",
+  Callback = function()
+   loadstring(game:HttpGet"https://raw.githubusercontent.com/OWOWOWWOW/HTT/main/HT.lua")()
+     end
+})
+
+Tab:AddButton({
+  Name = "被遗弃油管搬运脚本",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "被遗弃ESP",
+  Callback = function()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/sigmaboy-sigma-boy/sigmaboy-sigma-boy/refs/heads/main/StaminaSettings.ESP.PIDC.raw'))()
+    end
+})
+
+  
+local Tab = Window:MakeTab({
+    Name = "战争大亨",
+    Icon = "rbxassetid://7734068321",
+    PremiumOnly = false
+})
+
+Tab:AddButton({
+	Name = "一枪秒人",
+	Callback = function()
+loadstring(game:HttpGet('https://pastebin.com/raw/6b4XEjQF'))()
+  	end
+})
+
+Tab:AddButton({
+	Name = "乌托邦战争大亨",
+	Callback = function()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/USA868/-/refs/heads/main/.github/workflows/%E6%88%98%E4%BA%89%E5%A4%A7%E4%BA%A8.lua'))()
+  	end
+})
+
+local Tab = Window:MakeTab({
+	Name = "Doors",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "BobHUB汉化",
+  Callback = function()
+  --[[Doors Blackking And BobHub脚本汉化]]loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\54\53\84\119\84\56\106\97"))()
+    end
+})
+
+Tab:AddButton({
+  Name = "mspaintV3汉化",
+  Callback = function()
+  getgenv().Spy="mspaint" loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoXuAnZang/XKscript/refs/heads/main/DOORS.txt"))()
+    end
+})
