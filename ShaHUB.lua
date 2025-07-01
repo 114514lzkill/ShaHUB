@@ -544,3 +544,4 @@ Tab:AddButton({
   getgenv().Spy="mspaint" loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoXuAnZang/XKscript/refs/heads/main/DOORS.txt"))()
     end
 })
+
